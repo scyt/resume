@@ -1,12 +1,24 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Troubleshooting & integrations
+- skill: Troubleshooting & integrations
+  description: Hands-on troubleshooting; REST APIs; JSON; HTTP; DNS; authentication; webhooks; log analysis; Chrome DevTools debugging; SQL; scripting; Linux and command line
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Front-end & development
+- skill: Front-end & development
+  description: TML/CSS; JavaScript; PHP; SQL; Shopify Liquid theme development (prior experience); server administration across multiple platforms
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Written support & knowledge sharing
+- skill: Written support & knowledge sharing
+  description: lear customer-facing writing; technical documentation and knowledge management; training and onboarding
+
+# Judgment & prioritization
+- skill: Judgment & prioritization
+  description: Escalation management; queue and workflow improvement; support KPIs; issue-trend analysis and actionable feedback to Product and Development
+
+# AI & self-service
+- skill: AI & self-service
+  description: AI-assisted support; chatbot integration; self-service strategy; support website improvements; automation
+
+  # Tools
+- skill: Tools
+  description: HelpScout (extensive); Notion, Trello, Asana (advanced); Jira
