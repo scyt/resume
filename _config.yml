@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Scott Ryer"
-resume_title:                   "Technical Support Specialist | SaaS & eCommerce"
+resume_title:                   "Head of Support | Customer Experience & Support Operations"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "s@scyt.io"
@@ -23,7 +23,7 @@ resume_contact_address:         "14 Winding Road, Asheville NC"
 resume_header_contact_info:     "14 Winding Road, Asheville NC • 828-367-9367 • s@scyt.io"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Technical support professional with 15+ years of experience resolving technical issues and explaining them clearly, in writing, to non-technical customers. Built and led a fully remote support team at a software company, raising CSAT from 75% to 94% and cutting first response time from 24 hours to 1 hour. Strong technical foundation in REST APIs, HTTP, DNS, webhooks, authentication, logs, Chrome DevTools debugging, SQL, JavaScript, and HTML/CSS, plus a habit of turning recurring customer problems into documentation, self-service, and product feedback. Looking to return to hands-on support on a small, close-knit team where I own customer outcomes and get to know the product inside and out.</p>"
+resume_header_intro: "<p>Technical support leader with 15+ years of experience building teams, scaling support operations, and developing technical talent. Proven record improving customer outcomes through clear escalation workflows, performance metrics, cross-functional product feedback, documentation, self-service, and AI-assisted support. Combines hands-on technical troubleshooting and systems experience with coaching, operational rigor, and a focus on resolving customer issues consistently while identifying opportunities to prevent them from recurring.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

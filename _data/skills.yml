@@ -1,23 +1,23 @@
 # Skills
-# Troubleshooting & integrations
-- skill: Troubleshooting & integrations
-  description: Hands-on troubleshooting; REST APIs; JSON; HTTP; DNS; authentication; webhooks; log analysis; Chrome DevTools debugging; SQL; scripting; Linux and command line
+# Support leadership
+- skill: Support leadership
+  description: Team building and coaching; escalation management; support KPIs; queue and workflow improvement; customer-outcome ownership; capacity planning and performance reporting
 
-# Front-end & development
-- skill: Front-end & development
+# Customer and product partnership
+- skill: Customer and product partnership
   description: TML/CSS; JavaScript; PHP; SQL; Shopify Liquid theme development (prior experience); server administration across multiple platforms
 
-# Written support & knowledge sharing
-- skill: Written support & knowledge sharing
-  description: lear customer-facing writing; technical documentation and knowledge management; training and onboarding
+# AI and self-service
+- skill: AI and self-service
+  description: Written support & knowledge sharing
 
-# Judgment & prioritization
-- skill: Judgment & prioritization
-  description: Escalation management; queue and workflow improvement; support KPIs; issue-trend analysis and actionable feedback to Product and Development
+# Technical foundation
+- skill: Technical foundation
+  description: Hands-on troubleshooting; REST APIs; HTTP; authentication; webhooks; logs; SQL; scripting; deep Linux and command-line knowledge; server administration across multiple platforms
 
-# AI & self-service
-- skill: AI & self-service
-  description: AI-assisted support; chatbot integration; self-service strategy; support website improvements; automation
+# Development
+- skill: Development
+  description: PHP; JavaScript; SQL; HTML/CSS
 
   # Tools
 - skill: Tools
